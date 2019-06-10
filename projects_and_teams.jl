@@ -1133,7 +1133,7 @@ projects = Project[
 		),
 	),
 	Project(
-		name             = "Tower Defense",
+		name             = "Tower Defence",
 		points           = 45,
 		min_team_members = 3,
 		team = Team(
@@ -1182,10 +1182,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/jova95/lprs2-TowerDefence"),
+			youtube     = URL("https://youtu.be/gkVN85aXQXg"),
+			release_bit = URL("https://github.com/jova95/lprs2-TowerDefence/tree/master/demos"),
+			doc         = URL("https://github.com/jova95/lprs2-TowerDefence/blob/master/TowerDefence-dokumentacija.docx"),
 		),
 	),
 	Project(
